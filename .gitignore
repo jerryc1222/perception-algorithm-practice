@@ -1,0 +1,16 @@
+# 项目独立虚拟环境
+.venv/
+
+# Python 自动生成的缓存与编译文件
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook 自动缓存
+.ipynb_checkpoints/
+
+# 后续测试工具的缓存
+.pytest_cache/
+
+# Windows 与 macOS 生成的无关文件
+Thumbs.db
+.DS_Store
